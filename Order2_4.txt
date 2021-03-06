@@ -1,0 +1,2 @@
+hamburger       16.0
+Total:    16.0
